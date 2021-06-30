@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnimeshJhawar
 - 👀 I’m interested in UI/UX.
-- 🌱 I’m currently learning Figma and Premiere Pro
+- 🌱 I’m currently learning Figma and Premiere Pro, React.
 - 💞️ I’m looking to collaborate on front end devloping.
 - 📫 How to reach me via mail
 - jhawaranimesh12@gmail.com
